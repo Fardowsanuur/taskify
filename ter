@@ -1,0 +1,59 @@
+[33mcommit b93435f6b580f23c4a298adc80650941ac5dbf68[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Fardowsanuur <Fardowsonuura6@gmail.com>
+Date:   Sat Nov 2 13:39:25 2024 -0700
+
+    Api Configurion
+
+[33mcommit 766f25e7fc9af78dcb66a822083307f9f129fdf9[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Fardowsanuur <Fardowsonuura6@gmail.com>
+Date:   Fri Nov 1 07:31:10 2024 -0700
+
+    read file
+
+[33mcommit 9e160ed4456c9d4cffb63c684b4cd41bffc31684[m
+Author: Fardowsanuur <Fardowsonuura6@gmail.com>
+Date:   Fri Nov 1 07:20:15 2024 -0700
+
+    controller delete task and import routes
+
+[33mcommit 9ffc8a5f147f3d33614ca7366b40a3b225b5088b[m
+Author: Fardowsanuur <Fardowsonuura6@gmail.com>
+Date:   Fri Nov 1 07:15:21 2024 -0700
+
+    controller update task and import routes
+
+[33mcommit 361709c3db6514252edf37e4d1913fa257e49591[m
+Author: Fardowsanuur <Fardowsonuura6@gmail.com>
+Date:   Fri Nov 1 07:10:46 2024 -0700
+
+    controller create task and import routes
+
+[33mcommit df3bd9d302d69a57ce2e25a13c284547a850de27[m
+Author: Fardowsanuur <Fardowsonuura6@gmail.com>
+Date:   Fri Nov 1 07:04:24 2024 -0700
+
+    controllers/taskController.j
+
+[33mcommit 718a0d6d475d3c8e1c301230deaeb98d9f320e51[m
+Author: Fardowsanuur <Fardowsonuura6@gmail.com>
+Date:   Thu Oct 31 08:36:17 2024 -0700
+
+     routes and controllers tests
+
+[33mcommit 7c7d44119bc2d925ea006010a3c97aa168cc601c[m
+Author: Fardowsanuur <Fardowsonuura6@gmail.com>
+Date:   Thu Oct 31 08:19:30 2024 -0700
+
+    controllers  tests
+
+[33mcommit e0d3061c9e102e79e17b70602af58e3c48f667cf[m
+Author: Fardowsanuur <Fardowsonuura6@gmail.com>
+Date:   Wed Oct 30 13:13:36 2024 -0700
+
+    Routes of tasks
+
+[33mcommit 6e145d56eb0900e53d27cf3c3a8ce4279d880831[m
+Author: Fardowsanuur <Fardowsonuura6@gmail.com>
+Date:   Wed Oct 30 13:02:54 2024 -0700
+
+    first commit
